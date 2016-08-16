@@ -1,5 +1,7 @@
 # PaperBits Demo
 
+[![Join the chat at https://gitter.im/paperbits-demo/Lobby](https://badges.gitter.im/paperbits-demo/Lobby.svg)](https://gitter.im/paperbits-demo/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 This repository shows an example how developers can use [PaperBits](https://github.com/paperbits/paperbits-knockout) library to build their own web app with a nice online content editing capability. 
 
 You can see and play online with content editing capability on [paperbits.io](https://paperbits.io). Just follow tutorial steps.
